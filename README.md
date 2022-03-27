@@ -32,3 +32,8 @@ Rift Herald – The Rift Herald is a powerful enemy located in the upper side of
 Baron Nashor – Baron Nashor is the most powerful neutral enemy, located in the upper side of the River. It will spawn after twenty minutes, replacing the Rift Herald.
 
 Nexus – Each team has a Nexus that can only be damaged once all the turrets in a lane, that lane's inhibitor and the Nexus turrets are destroyed. Destruction of the enemy team's Nexus ends the game.
+
+
+# PREDICTON
+
+With a score of 0.99 it would indicate that the coefficients are fully explaining the outcome of the game.
